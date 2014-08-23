@@ -1,0 +1,17 @@
+#instalacion de lapp Server
+
+#instalacion de apache
+
+sudo apt-get install apache2 apache2.2-common apache2-utils ssl-cert
+
+#instalacion de PHP
+
+sudo apt-get install php5 libapache2-mod-php5 php5-common
+
+#reinicio de apache
+
+sudo /etc/init.d/apache2 restart 
+
+#instalacion de PostgreSQL
+
+sudo apt-get install postgresql postgresql-client postgresql-contrib libpq-dev phppgadmin 
