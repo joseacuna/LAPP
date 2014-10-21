@@ -12,7 +12,7 @@ echo  instalacion de PHP
 echo --------------------------------------------------------------------------
 echo --------------------------------------------------------------------------
 
-sudo apt-get install php5 libapache2-mod-php5 php5-common php-mcrypt
+sudo apt-get install php5 libapache2-mod-php5 php5-common php5-mcrypt
 echo --------------------------------------------------------------------------
 echo --------------------------------------------------------------------------
 echo reinicio de apache
